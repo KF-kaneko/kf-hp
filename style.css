@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*
+Theme Name: tomizawa
+Theme URI:
+Description: 専用テーマ
+Author: Rinazo
+Author URI: http://rinazo.com
+Version: 1.0
+*/
+
+/* !共通css -------------------------------------------------------------- */
+@import "assets/css/reset.css";
+@import "assets/css/common.css";
+@import "assets/css/module.css";
+@import "assets/css/fontello.css";
+
+
+
